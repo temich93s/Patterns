@@ -33,3 +33,21 @@
 
 ## 11. Flyweight
 <img width="1358" alt="Снимок экрана 2022-12-01 в 22 52 13" src="https://user-images.githubusercontent.com/88254863/205057723-9311647d-81c7-439e-adef-14dfd1529514.png">
+
+## 12. Facade
+<img width="1375" alt="Снимок экрана 2022-12-02 в 20 00 06" src="https://user-images.githubusercontent.com/88254863/205267061-ed96cba3-4d6b-45a3-98fe-16abae09221a.png">
+
+## 13. Iterator
+<img width="1385" alt="Снимок экрана 2022-12-02 в 20 00 49" src="https://user-images.githubusercontent.com/88254863/205267180-fd6eab42-771c-4956-87e6-11a6f9c3657d.png">
+
+## 14. Memento
+<img width="1382" alt="Снимок экрана 2022-12-02 в 20 01 42" src="https://user-images.githubusercontent.com/88254863/205267349-feb710da-3079-4872-bedc-d21866b8e589.png">
+
+## 15. Command
+<img width="1357" alt="Снимок экрана 2022-12-02 в 20 02 33" src="https://user-images.githubusercontent.com/88254863/205267491-bb0ba4e8-f709-4721-a32f-2c06ddb3aaf6.png">
+
+## 16. Visitor
+<img width="1367" alt="Снимок экрана 2022-12-02 в 20 03 17" src="https://user-images.githubusercontent.com/88254863/205267658-723dbc8d-3733-48ba-8134-09fdc60c307f.png">
+
+## 17. Observer
+<img width="1359" alt="Снимок экрана 2022-12-02 в 20 03 46" src="https://user-images.githubusercontent.com/88254863/205267756-b00714cd-3aba-48a6-ad81-edde85cf11b1.png">
